@@ -1,7 +1,6 @@
-var db = module.exports = {};
-    
-db.greeting = 'Hello world';
-    
+var db = module.exports = {}
+
+db.greeting = 'Hello world'
 
 
 

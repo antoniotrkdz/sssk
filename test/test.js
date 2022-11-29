@@ -1,4 +1,4 @@
-var assert = require('assert');
+const assert = require('assert')
 
-console.log('A  simple failing test');
-assert.ok(false);
+console.log('A  simple failing test')
+assert.ok(false)
